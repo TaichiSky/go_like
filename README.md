@@ -1,2 +1,2 @@
 # go_like
-Going and Doing!
+I will start my going-life！Going and Doing!
