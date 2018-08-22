@@ -60,7 +60,7 @@ func main() {
 		println("\nbool condition's g:",g)
 	}
 	
-  //arrays sort
+	//arrays sort
 	h := [6]int{96,4,54,23,6,18}
 	fmt.Println("before order:",h)
 	for i,len := 0,len(h); i<len-1; i++ {
