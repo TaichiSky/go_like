@@ -27,4 +27,10 @@ func main() {
 	fmt.Printf("%T \n", d)	//bool
 	fmt.Printf("%T \n", e)
 	fmt.Printf("%T \n", f)
+	
+	var student1 []string
+	student2 := []string{}
+	
+	fmt.Println(student1 == nil)  //true
+	fmt.Println(student2 == nil)  //false
 }
